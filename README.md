@@ -5,5 +5,5 @@ My personal VS Code devcontainer setup with zsh and [starship](https://starship.
 ## Setup
 
 ```zsh
-wget https://github.com/raphtlw/devcontainer/.devcontainer
+wget https://raw.githubusercontent.com/raphtlw/devcontainer/master/.devcontainer/devcontainer.json https://raw.githubusercontent.com/raphtlw/devcontainer/master/.devcontainer/Dockerfile -P .devcontainer
 ```
