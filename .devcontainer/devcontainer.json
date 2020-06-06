@@ -1,0 +1,7 @@
+{
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "python.defaultInterpreterPath": "/usr/bin/python3"
+  }
+}
